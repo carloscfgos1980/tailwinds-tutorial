@@ -1,4 +1,5 @@
-## Lesson # 1
+## Lesson # 1 
+pat I finish min 20
 
 https://www.youtube.com/watch?v=lCxcTsOHrjo
 
