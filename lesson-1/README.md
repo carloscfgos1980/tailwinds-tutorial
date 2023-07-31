@@ -1,7 +1,12 @@
-## Lesson # 1 
-pat I finish min 20
+## Lesson # 1 finish min 22
 
 https://www.youtube.com/watch?v=lCxcTsOHrjo
+
+# Goals.
+- Install all dependencies.
+- Basic tailwind.
+* Create a gradient backgrond!
+
 
 npx tailwindcss init
 

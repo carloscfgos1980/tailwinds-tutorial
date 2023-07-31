@@ -1,8 +1,10 @@
-# tutoril video from min 20
+# Lesson # 3. tutoril video from min 1:08 - 1:45 hr
 https://www.youtube.com/watch?v=lCxcTsOHrjo
 
-Starts at:
-1:08 hr
+# Goals:
+- Pseudo clases
+- Forms
+- Footer
 
 * Check Steps in <lesson-1> & <lesson-2>
 

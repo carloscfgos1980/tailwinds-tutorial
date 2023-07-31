@@ -1,7 +1,11 @@
-# tutoril video from min 20
+## Lesson # 2. tutorail video from min 0:22 till 1:08 hr
 https://www.youtube.com/watch?v=lCxcTsOHrjo
 
-* All the steps in lesson # 1 and then this:
+# Goals:
+- build header
+- build section hero
+- build section cards
+
 # Steps:
 1. 
 npm init -y

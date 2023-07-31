@@ -1,11 +1,9 @@
-## Class # 4
+## Class # 4. Nav Bar Animated 1:45 -2:33 hr
 https://www.youtube.com/watch?v=lCxcTsOHrjo
 
-Start min 1:45
-
 # Goals:
-- Add an animated hamburger manu
-- manu that shos up and also is animated
+- Add an animated hamburger manu (toggle nav bar)
+- manu that shows up and also is animated
 
 
 1. 
@@ -57,3 +55,11 @@ document.addEventListener('DOMContentLoaded', initApp)
 
 2.5 Tell tailwind to watch changes in the javascript files too. tailwind.config.js:
   content: ["./build/*.html", "./build/js/*.js"],
+
+3. Second way. Animate the hamburger button. Explanation start 2:13 hr
+@ This is a pain in the ass. i will never do such a thing... This guy build the whole animated hamburger button from scratch. I need to disable the CSS format for this projevt and then put it back again
+
+
+THE END
+
+# LESSON # 5 it is about deploying this app online which I am not interested to.
